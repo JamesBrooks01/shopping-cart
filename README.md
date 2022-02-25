@@ -1,2 +1,5 @@
-# 201d79-class-14-starter-code
-starter code for Class 14 Lab
+# LAB - 14
+
+## Shopping Cart
+
+### Author: James Brooks & Michelle Salazar
